@@ -3,7 +3,7 @@ Contributors: sojweb
 Tags: favicon
 Requires at least: 2.0
 Tested up to: 2.6.5
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 Just a real simple plugin to change the favicon for the admin pages; helpful if you've got a bunch of tabs open in Firefox so you can quickly see which tab is admin and which is not.
 
