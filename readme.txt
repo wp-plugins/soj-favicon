@@ -9,6 +9,8 @@ Just a real simple plugin to change the favicon for the admin pages; helpful if 
 
 == Description ==
 
+New: version 1.0.1 fixes a path problem.
+
 Just a real simple plugin to change the favicon for the admin pages; helpful if you've got a bunch of tabs open in Firefox (or some other browser that displays favicons in the tabs) so you can quickly see which tab is admin and which is not.
 
 The WordPress icon is provided by default. To set your own, just copy it to the plugin folder.
