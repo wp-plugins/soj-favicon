@@ -9,8 +9,8 @@ Just a real simple plugin to change the favicon for the admin pages; helpful if 
 
 == Description ==
 
-1.0.2: output <link> tags as XHTML
-1.0.1: fixes a path problem.
+* 1.0.2: output <link> tags as XHTML
+* 1.0.1: fixes a path problem.
 
 Just a real simple plugin to change the favicon for the admin pages; helpful if you've got a bunch of tabs open in Firefox (or some other browser that displays favicons in the tabs) so you can quickly see which tab is admin and which is not.
 
